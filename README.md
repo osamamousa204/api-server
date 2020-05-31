@@ -1,5 +1,5 @@
 # API-SERVER
-### Author: Diana Alazzam 
+### Author: Osama Mousa 
 ### Links and Resources
 - [Swagger](https://app.swaggerhub.com/apis/osamamousa204/api-server/0.1)
 ### Setup
